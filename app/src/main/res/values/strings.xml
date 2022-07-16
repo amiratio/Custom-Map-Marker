@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Custom Map Marker</string>
-    <string name="api_key">AIzaSyCvxKaE92HxvKvHCkm4cEJS_2SEfrUCffw</string>
+    <string name="api_key">your_api_key</string>
 </resources>
